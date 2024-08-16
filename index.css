@@ -1,0 +1,38 @@
+header{
+    background-color:black;
+    text-align:center;
+    color:lightcoral;
+    padding:5px;
+    border:3px lightcoral outset;
+    margin:auto;
+}
+
+body{
+    background-color:peachpuff;
+}
+
+img{
+    height:200px;
+    weight:300px;
+}
+
+.content{
+    background-color:firebrick;
+    text-align:center;
+    color:white;
+    padding:auto;
+    text-size-adjust:50px;
+    margin:75;
+}
+.end{
+    text-align:justify;
+    background-color:blisque;
+}
+.b{
+    background-color:black;
+    text-align:center;
+    color:lightcoral;
+    padding:5px;
+    border:3px rgb(240, 8, 8) outset;
+    margin:auto;
+}
